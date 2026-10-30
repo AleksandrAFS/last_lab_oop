@@ -1,3 +1,8 @@
+# last_lab_oop
+
+Структура проекта:
+
+```
 last_lab_oop/
 ├── .gitignore
 ├── .vscode/
@@ -35,3 +40,4 @@ last_lab_oop/
 │   └── step4.2.h
 ├── main
 └── README.md
+```
