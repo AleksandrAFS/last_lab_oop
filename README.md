@@ -35,9 +35,7 @@ last_lab_oop/
 │   ├── step2.4.cpp
 │   ├── step2.4.h
 │   ├── step3.2.cpp
-│   ├── step3.2.h
-│   ├── step4.2.cpp
-│   └── step4.2.h
+│   └── step3.2.h
 ├── main
 └── README.md
 ```
