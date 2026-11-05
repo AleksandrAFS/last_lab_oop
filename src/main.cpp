@@ -6,6 +6,7 @@
 #include "src/domain/Courses/ExtraCourse.h"
 #include "tests/step1.4.h"
 #include "tests/step2.4.h"
+#include "tests/step3.2.h"
 #include <cassert>
 #include <stdexcept>
 #include <iostream>
@@ -13,6 +14,7 @@
 int main() {
     step_1_4();
     step_2_4();
+    step_3_2();
     Student Anna("Анна", 18, "261-351", 1);
     Student Ivan("Иван", 19, "261-351", 1);
     Student Vova("Вова", 18, "261-351", 1);
